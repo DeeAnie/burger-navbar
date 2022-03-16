@@ -5,11 +5,13 @@
     
     **Навигация Desktop**
     
-    ![Header.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18abb352-f210-44f3-8607-3e850a326631/Header.jpg)
+   ![image](https://user-images.githubusercontent.com/88156532/158593187-6380281d-dbf2-4b7f-8b0b-0cf0a39113a1.png)
+
     
     **Навигация Mobile**
     
-    ![Header-Mobile.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7af8799c-2bdf-4fbb-9ed2-e0c0645c8e4e/Header-Mobile.jpg)
+    ![image](https://user-images.githubusercontent.com/88156532/158593208-b8f3abdc-b555-4dc5-b1dc-ccf8aa61a121.png)
+
     
 - **Критерии оценки для cross-check**
     
